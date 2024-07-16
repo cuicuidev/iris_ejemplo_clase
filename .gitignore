@@ -1,0 +1,7 @@
+venv/
+
+.env
+
+*.csv
+
+!clean_data.csv
